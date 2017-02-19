@@ -19,4 +19,20 @@ public class Params
     public static void doThing(int x, int y) {
         System.out.println("x is " + x + " and y is " + y);
     }
+    
+    /**
+     * Will return the number of parameters that are different
+     */
+    public static int numDiff(int a, int b, int c) {
+        // Return 1
+        if (a == b && a == c) {
+            return 1;
+        }
+        // Return 3
+        else if (a != b && a != c && b != c) {
+            return 3;
+        } else {
+            return 2;
+        }
+    }
 }
