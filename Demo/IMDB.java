@@ -1,3 +1,5 @@
+import java.io.*;
+import java.util.*;
 
 /**
  * Write a description of class IMDB here.
@@ -9,7 +11,7 @@ public class IMDB
 {
     // File looks like
     /*
-Votes  Rating  Title
+Votes  Rating  /BreTitle
 5   4.2  "!Next?" (1994)
 62   6.2  "#1 Single" (2006)
 14   7.1  "#7DaysLater" (2013)
@@ -20,4 +22,40 @@ Votes  Rating  Title
 7   7.6  "#Hashtag: The Series" (2013)
 6   7.0  "#LawstinWoods" (2013)
 */
+    public static void main(String[] args) throws FileNotFoundException {
+        Scanner scan = new Scanner(new FileInputStream(new File("../ratings.list.txt")), "UTF-8");
+        double rating = 9.0;
+        
+        // Ignore the first line
+        scan.nextLine();
+        
+        while (scan.hasNextLine()) {
+            String line = scan.nextLine();
+            
+            if (getRating(line) > rating) {
+                System.out.println("Found " + getMovieTitle(line) + " with rating " + getRating(line));
+            }
+        }
+    }
+    
+    /**
+     * Returns the number of votes (first int) from a given line.
+     */
+    public static int getNumVotes(String line) {
+        Scanner lineScan = new Scanner(line);
+        return lineScan.nextInt();
+    }
+    
+    public static double getRating(String line) {
+        Scanner lineScan = new Scanner(line);
+        lineScan.next(); // ignores the first thing.
+        return lineScan.nextDouble();
+    }
+    
+    public static String getMovieTitle(String line) {
+        Scanner lineScan = new Scanner(line);
+        lineScan.next(); // burns the first thing.
+        lineScan.nextDouble();
+        return lineScan.nextLine();
+    }
 }
