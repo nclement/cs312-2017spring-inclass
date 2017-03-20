@@ -23,19 +23,26 @@ Votes  Rating  /BreTitle
 6   7.0  "#LawstinWoods" (2013)
 */
     public static void main(String[] args) throws FileNotFoundException {
+        // The IMDB file has some issues. This is how to read from the issue-filled file.
         Scanner scan = new Scanner(new FileInputStream(new File("../ratings.list.txt")), "UTF-8");
         double rating = 9.0;
         
         // Ignore the first line
         scan.nextLine();
-        
+        int numMovies = 0;
+        int numOverRating = 0;
         while (scan.hasNextLine()) {
             String line = scan.nextLine();
             
-            if (getRating(line) > rating) {
+            numMovies++;
+            double r = getRating(line);
+            if (r > rating) {
+                numOverRating++;
                 System.out.println("Found " + getMovieTitle(line) + " with rating " + getRating(line));
             }
         }
+        
+        System.out.println("Found " + numOverRating + " movies that match your criteria");
     }
     
     /**
