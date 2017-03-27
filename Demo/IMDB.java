@@ -23,6 +23,11 @@ Votes  Rating  /BreTitle
 6   7.0  "#LawstinWoods" (2013)
 */
     public static void main(String[] args) throws FileNotFoundException {
+        int firstNum = getNextInt("hello people I'm seventeen years old in 2 days");
+        System.out.println(firstNum + " should be 2");
+        firstNum = getNextInt("hi i1m 16 and today is a 7 times cool day");
+        System.out.println(firstNum + " should be 16");        
+        
         // The IMDB file has some issues. This is how to read from the issue-filled file.
         Scanner scan = new Scanner(new FileInputStream(new File("../ratings.list.txt")), "UTF-8");
         double rating = 9.0;
@@ -64,5 +69,20 @@ Votes  Rating  /BreTitle
         lineScan.next(); // burns the first thing.
         lineScan.nextDouble();
         return lineScan.nextLine();
+    }
+    
+    /**
+     * line could look like "hello people I'm seventeen years old in 2 days"
+     *   -> should return 2
+     * if line looks like "hi i1m 16 and today is a 7 times cool day"
+     *   -> should return 16
+     */
+    public static int getNextInt(String line) {
+        Scanner lineScan = new Scanner(line);
+        while (!lineScan.hasNextInt()) {
+            lineScan.next();
+        }
+        // If I ever get here, I can "assert" that the next thing _is_ an int.
+        return lineScan.nextInt();
     }
 }
