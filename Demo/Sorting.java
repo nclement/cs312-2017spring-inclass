@@ -147,7 +147,7 @@ public class Sorting
     {
         Random random = new Random();
         for (int i = 0; i < array.length; i++) {
-            int index = random.nextInt(i + 1);
+            int index = random.nextInt(array.length);
             swap(array, index, i);
         }
     }

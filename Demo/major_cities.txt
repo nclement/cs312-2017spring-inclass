@@ -1,0 +1,1086 @@
+1085
+79.9833333333333	-85.9333333333333		Eureka	Nunavut	Canada
+78.9166666666667	11.9333333333333		Ny-Ålesund	Svalbard	Norway
+76.4166666666667	-82.9		Grise Fiord	Nunavut	Canada
+73.5	80.5166666666667		Dikson	Krasnoyarsk Krai	Russia
+72.7833333333333	-56.15		Upernavik	Greenland	Denmark
+71.65	128.866666666667		Tiksi	Sakha Republic	Russia
+71.5333333333333	52.3166666666667		Belushya Guba	Arkhangelsk Oblast	Russia
+71.3	-156.766666666667		Barrow	Alaska	United States
+70.9833333333333	25.9833333333333		Honningsvåg	Finnmark	Norway
+70.6666666666667	23.6833333333333		Hammerfest	Finnmark	Norway
+70.2	-148.516666666667		Deadhorse	Alaska	United States
+70.0833333333333	27.8833333333333		Nuorgam	Lapland	Finland
+70.0833333333333	29.7333333333333		Vadsø	Finnmark	Norway
+69.9666666666667	23.2666666666667		Alta	Finnmark	Norway
+69.9	27.0166666666667		Utsjoki	Lapland	Finland
+69.7166666666667	30.0333333333333		Kirkenes	Finnmark	Norway
+69.6833333333333	18.95		Tromsø	Troms	Norway
+68.9666666666667	33.0833333333333		Murmansk	Murmansk Oblast	Russia
+68.7833333333333	16.5333333333333		Harstad	Troms	Norway
+68.4166666666667	17.5666666666667		Narvik	Nordland	Norway
+68.35	-133.716666666667		Inuvik	Northwest Territories	Canada
+67.85	20.2166666666667		Kiruna	Norrbotten	Sweden
+67.55	133.383333333333		Verkhoyansk	Sakha Republic	Russia
+67.3	14.55		Bodø	Nordland	Norway
+67.1333333333333	20.6666666666667		Gällivare	Norrbotten	Sweden
+66.7166666666667	27.4333333333333		Kemijärvi	Lapland	Finland
+66.5	25.7333333333333		Rovaniemi	Lapland	Finland
+66.0833333333333	-23.1333333333333		Ísafjörður	Westfjords	Iceland
+65.9666666666667	29.1833333333333		Kuusamo	Northern Ostrobothnia	Finland
+65.85	24.15		Tornio	Lapland	Finland
+65.8333333333333	21.7166666666667		Boden	Norrbotten	Sweden
+65.8333333333333	24.1333333333333		Haparanda	Norrbotten	Sweden
+65.7333333333333	24.5666666666667		Kemi	Lapland	Finland
+65.6833333333333	-18.1		Akureyri	Northeastern Region	Iceland
+65.5833333333333	22.15		Luleå	Norrbotten	Sweden
+65.3666666666667	27		Pudasjärvi	Northern Ostrobothnia	Finland
+65.3333333333333	21.5		Piteå	Norrbotten	Sweden
+65.0166666666667	25.4666666666667		Oulu	Northern Ostrobothnia	Finland
+64.85	-147.716666666667		Fairbanks	Alaska	United States
+64.75	20.95		Skellefteå	Västerbotten	Sweden
+64.7333333333333	177.516666666667		Anadyr	Chukotka Autonomous Okrug	Russia
+64.5333333333333	40.5333333333333		Arkhangelsk	Arkhangelsk Oblast	Russia
+64.5	-165.383333333333		Nome	Alaska	United States
+64.1833333333333	-51.7333333333333		Nuuk (Godthåb)	Greenland	Denmark
+64.1333333333333	-21.9333333333333		Reykjavík	Capital Region	Iceland
+63.8333333333333	20.2666666666667		Umeå	Västerbotten	Sweden
+63.75	-68.5166666666667		Iqaluit	Nunavut	Canada
+63.4833333333333	11.1666666666667		Stjørdal	Nord-Trøndelag	Norway
+63.4333333333333	10.4		Trondheim	Sør-Trøndelag	Norway
+63.2833333333333	18.7333333333333		Örnsköldsvik	Västernorrland	Sweden
+63.1833333333333	14.6666666666667		Östersund	Jämtland	Sweden
+63.1	21.6166666666667		Vaasa	Ostrobothnia	Finland
+62.9	27.6833333333333		Kuopio	Pohjois-Savo	Finland
+62.45	-114.4		Yellowknife	Northwest Territories	Canada
+62.4	17.3166666666667		Sundsvall	Västernorrland	Sweden
+62.25	25.75		Jyväskylä	Central Finland	Finland
+62.0333333333333	129.733333333333		Yakutsk	Sakha Republic	Russia
+62.0166666666667	-6.76666666666667		Tórshavn	Faroe Islands	Denmark
+61.5	23.7666666666667		Tampere	Pirkanmaa	Finland
+61.2166666666667	-149.9		Anchorage	Alaska	United States
+61.1333333333333	10.4333333333333		Lillehammer	Oppland	Norway
+60.9833333333333	25.65		Lahti	Päijät-Häme	Finland
+60.7166666666667	-46.0333333333333		Qaqortoq	Greenland	Denmark
+60.7166666666667	-135.05		Whitehorse	Yukon	Canada
+60.45	22.2666666666667		Turku	Southwest Finland	Finland
+60.3833333333333	5.33333333333333		Bergen	Hordaland	Norway
+60.3	25.0333333333333		Vantaa	Uusimaa	Finland
+60.25	-1.25		Lerwick	Shetland	United Kingdom
+60.2	24.65		Espoo	Uusimaa	Finland
+60.1666666666667	24.9333333333333		Helsinki	Uusimaa	Finland
+59.95	10.75		Oslo	N/A	Norway
+59.95	30.3		Saint Petersburg	N/A	Russia
+59.85	17.65		Uppsala	Uppland	Sweden
+59.7666666666667	-151.216666666667		Fritz Creek	Alaska	United States
+59.5666666666667	150.8		Magadan	Magadan Oblast	Russia
+59.4333333333333	24.75		Tallinn	Harju County	Estonia
+59.3333333333333	18.0666666666667		Stockholm	Stockholm County	Sweden
+59.2833333333333	11.2		Sarpsborg	N/A	Norway
+59.2666666666667	15.2		Örebro	Närke	Sweden
+59.2166666666667	39.9		Vologda	Vologda Oblast	Russia
+58.6	16.2		Norrköping	Östergötland	Sweden
+58.4	15.6166666666667		Linköping	Östergötland	Sweden
+58.3833333333333	26.7166666666667		Tartu	Tartu County	Estonia
+58.3	-134.416666666667		Juneau	Alaska	United States
+58.4833333333333	8.78333333333333		Arendal	N/A	Norway
+58.1666666666667	8		Kristiansand	N/A	Norway
+58	56.3166666666667		Perm	Perm Krai	Russia
+57.7666666666667	26.0333333333333		Valga	Valga County	Estonia
+57.7	11.9666666666667		Gothenburg	Västergötland	Sweden
+57.6333333333333	18.2833333333333		Visby	Gotland	Sweden
+57.6166666666667	39.85		Yaroslavl	Yaroslavl Oblast	Russia
+57.4666666666667	-4.23333333333333		Inverness	Scotland	United Kingdom
+57.15	-2.11666666666667		Aberdeen	Scotland	United Kingdom
+57.05	-135.333333333333		Sitka	Alaska	United States
+56.95	24.1		Riga	N/A	Latvia
+56.8333333333333	53.1833333333333		Izhevsk	Udmurt Republic	Russia
+56.8333333333333	60.5833333333333		Yekaterinburg	Sverdlovsk Oblast	Russia
+56.7333333333333	-111.383333333333		Fort McMurray	Alberta	Canada
+56.4666666666667	-2.96666666666667		Dundee	Scotland	United Kingdom
+56.3333333333333	44		Nizhny Novgorod	Nizhny Novgorod Oblast	Russia
+56.15	-3.93333333333333		Stirling	Scotland	United Kingdom
+56.1166666666667	101.6		Bratsk	Irkutsk Oblast	Russia
+56.15	10.2166666666667		Aarhus	Aarhus	Denmark
+56.0166666666667	93.0666666666667		Krasnoyarsk	Krasnoyarsk Krai	Russia
+55.95	-3.18333333333333		Edinburgh	Scotland	United Kingdom
+55.85	-4.26666666666667		Glasgow	Scotland	United Kingdom
+55.7833333333333	49.1333333333333		Kazan	Tatarstan	Russia
+55.75	37.6166666666667		Moscow	N/A	Russia
+55.6833333333333	12.5666666666667		Copenhagen	N/A	Denmark
+55.5833333333333	13.0333333333333		Malmö	N/A	Sweden
+55.4833333333333	8.45		Esbjerg	N/A	Denmark
+55.4	10.3833333333333		Odense	N/A	Denmark
+55.1666666666667	-118.8		Grande Prairie	Alberta	Canada
+55.15	61.3833333333333		Chelyabinsk	Chelyabinsk Oblast	Russia
+55.0166666666667	82.9333333333333		Novosibirsk	Novosibirsk Oblast	Russia
+55	-7.3		Derry	Northern Ireland	United Kingdom
+54.9833333333333	73.3666666666667		Omsk	Omsk Oblast	Russia
+54.9666666666667	-1.61666666666667		Newcastle upon Tyne	England	United Kingdom
+54.9	-1.38333333333333		Sunderland	England	United Kingdom
+54.8833333333333	69.1666666666667		Petropavl	North Kazakhstan	Kazakhstan
+54.7833333333333	9.43333333333333		Flensburg	Schleswig-Holstein	Germany
+54.75	55.9666666666667		Ufa	Republic of Bashkortostan	Russia
+54.7166666666667	20.5166666666667		Kaliningrad	Kaliningrad Oblast	Russia
+54.6833333333333	25.2833333333333		Vilnius	N/A	Lithuania
+54.6	-5.93333333333333		Belfast	Northern Ireland	United Kingdom
+54.5666666666667	-1.23333333333333		Middlesbrough	England	United Kingdom
+54.5	18.55		Gdynia	Pomeranian Voivodeship	Poland
+54.3666666666667	18.6333333333333		Gdańsk	Pomeranian Voivodeship	Poland
+54.3333333333333	10.1333333333333		Kiel	Schleswig-Holstein	Germany
+54.15	-4.48333333333333		Douglas	Isle of Man	United Kingdom
+54.0833333333333	12.1333333333333		Rostock	Mecklenburg-Vorpommern	Germany
+54.05	-2.8		Lancaster	England	United Kingdom
+53.9666666666667	-1.08333333333333		York	England	United Kingdom
+53.9166666666667	-122.733333333333		Prince George	British Columbia	Canada
+53.9	27.5666666666667		Minsk	N/A	Belarus
+53.8	-1.75		Bradford	England	United Kingdom
+53.8	-1.55		Leeds	England	United Kingdom
+53.5666666666667	10		Hamburg	Hamburg	Germany
+53.5333333333333	-113.5		Edmonton	Alberta	Canada
+53.5166666666667	49.4166666666667		Tolyatti	Samara Oblast	Russia
+53.4666666666667	-2.23333333333333		Manchester	England	United Kingdom
+53.4	-2.98333333333333		Liverpool	England	United Kingdom
+53.3833333333333	-1.46666666666667		Sheffield	England	United Kingdom
+53.35	-6.26666666666667		Dublin	Leinster	Ireland
+53.2166666666667	6.55		Groningen	Groningen	Netherlands
+53.2	50.1333333333333		Samara	Samara Oblast	Russia
+53.0833333333333	8.8		Bremen	Bremen	Germany
+53.0166666666667	158.65		Petropavlovsk-Kamchatsky	Kamchatka Krai	Russia
+52.95	-1.13333333333333		Nottingham	England	United Kingdom
+52.9166666666667	-1.46666666666667		Derby	England	United Kingdom
+52.6333333333333	-1.13333333333333		Leicester	England	United Kingdom
+52.6333333333333	1.3		Norwich	England	United Kingdom
+52.5833333333333	-0.25		Peterborough	England	United Kingdom
+52.5166666666667	13.3833333333333		Berlin	Berlin	Germany
+52.4833333333333	-1.9		Birmingham	England	United Kingdom
+52.4333333333333	30.9833333333333		Gomel	Gomel Voblast	Belarus
+52.4	-1.51666666666667		Coventry	England	United Kingdom
+52.4	16.9166666666667		Poznań	Greater Poland	Poland
+52.3833333333333	4.63333333333333		Haarlem	North Holland	Netherlands
+52.3666666666667	4.9		Amsterdam	North Holland	Netherlands
+52.3666666666667	9.71666666666667		Hannover	Lower Saxony	Germany
+52.3166666666667	104.3		Irkutsk	Irkutsk Oblast	Russia
+52.2333333333333	21.0166666666667		Warsaw	Masovian Voivodship	Poland
+52.2166666666667	6.9		Enschede	Overijssel	Netherlands
+52.2	0.116666666666667		Cambridge	England	United Kingdom
+52.1666666666667	4.48333333333333		Leiden	South Holland	Netherlands
+52.1333333333333	-106.683333333333		Saskatoon	Saskatchewan	Canada
+52.1	5.11666666666667		Utrecht	Utrecht	Netherlands
+52.0833333333333	4.31666666666667		The Hague	South Holland	Netherlands
+51.95	7.61666666666667		Münster	North Rhine-Westphalia	Germany
+51.9333333333333	4.48333333333333		Rotterdam	South Holland	Netherlands
+51.9	-8.46666666666667		Cork	Munster	Ireland
+51.8833333333333	-176.65		Adak	Alaska	United States
+51.8666666666667	-2.23333333333333		Gloucester	England	United Kingdom
+51.75	-1.25		Oxford	England	United Kingdom
+51.6666666666667	39.2166666666667		Voronezh	Voronezh Oblast	Russia
+51.6166666666667	-3.95		Swansea	Wales	United Kingdom
+51.5333333333333	46.0166666666667		Saratov	Saratov Oblast	Russia
+51.5166666666667	7.46666666666667		Dortmund	North Rhine-Westphalia	Germany
+51.5	-0.133333333333333		London	England	United Kingdom
+51.4833333333333	-3.18333333333333		Cardiff	Wales	United Kingdom
+51.4833333333333	0	Greenwich	England	United Kingdom
+51.45	-2.58333333333333		Bristol	England	United Kingdom
+51.3833333333333	-2.36666666666667		Bath	England	United Kingdom
+51.3333333333333	12.3833333333333		Leipzig	Saxony	Germany
+51.2333333333333	6.78333333333333		Düsseldorf	North Rhine-Westphalia	Germany
+51.2166666666667	4.4		Antwerp	Flanders	Belgium
+51.1666666666667	71.4333333333333		Astana	N/A	Kazakhstan
+51.1	1.5		Winchester	England	United Kingdom
+51.05	-114.066666666667		Calgary	Alberta	Canada
+51.05	3.73333333333333		Ghent	Flanders	Belgium
+51.0333333333333	13.7333333333333		Dresden	Saxony	Germany
+50.9833333333333	11.0333333333333		Erfurt	Thuringia	Germany
+50.95	1.85		Calais	N/A	France
+50.9333333333333	6.96666666666667		Cologne	North Rhine-Westphalia	Germany
+50.9	-1.4		Southampton	England	United Kingdom
+50.85	5.68333333333333		Maastricht	Limburg (Netherlands)	Netherlands
+50.85	4.35		Brussels	Brussels	Belgium
+50.8333333333333	-0.15		Brighton and Hove	England	United Kingdom
+50.8166666666667	-1.08333333333333		Portsmouth	England	United Kingdom
+50.7166666666667	-3.53333333333333		Exeter	England	United Kingdom
+50.6833333333333	-120.333333333333		Kamloops	British Columbia	Canada
+50.6333333333333	3.05		Lille	Hauts-de-France	France
+50.45	-104.6		Regina	Saskatchewan	Canada
+50.45	30.5166666666667		Kiev	Kiev Oblast	Ukraine
+50.4	4.43333333333333		Charleroi	N/A	Belgium
+50.3666666666667	-4.15		Plymouth	England	United Kingdom
+50.1166666666667	8.68333333333333		Frankfurt am Main	Hesse	Germany
+50.0833333333333	14.4166666666667		Prague	N/A	Czech Republic
+50.0666666666667	19.9333333333333		Kraków	Lesser Poland	Poland
+50	36.2333333333333		Kharkiv	Kharkiv Oblast	Ukraine
+49.9	-97.1333333333333		Winnipeg	Manitoba	Canada
+49.8833333333333	-119.5		Kelowna	British Columbia	Canada
+49.85	24.0166666666667		Lviv	Lviv Oblast	Ukraine
+49.6166666666667	6.11666666666667		Luxembourg	N/A	Luxembourg
+49.4833333333333	0.1		Le Havre	Normandy	France
+49.45	11.0833333333333		Nuremberg	Bavaria	Germany
+49.4333333333333	1.1		Rouen	Normandy	France
+49.25	-123.1		Vancouver	British Columbia	Canada
+48.85	2.35		Paris	Île-de-France	France
+48.7833333333333	9.18333333333333		Stuttgart	Baden-Württemberg	Germany
+48.75	-122.483333333333		Bellingham	Washington	United States
+48.7	44.5166666666667		Volgograd	Volgograd Oblast	Russia
+48.5833333333333	7.75		Strasbourg	Grand Est	France
+48.4	34.9833333333333		Dnipropetrovsk	N/A	Ukraine
+48.4333333333333	-123.366666666667		Victoria	British Columbia	Canada
+48.4166666666667	-71.0666666666667		Saguenay	Quebec	Canada
+48.3833333333333	-4.48333333333333		Brest	Brittany	France
+48.3833333333333	-89.25		Thunder Bay	Ontario	Canada
+48.3	14.2833333333333		Linz	Upper Austria	Austria
+48.2166666666667	16.3666666666667		Vienna	Vienna	Austria
+48.15	17.1166666666667		Bratislava	N/A	Slovakia
+48.1333333333333	11.5666666666667		Munich	Bavaria	Germany
+48	37.8		Donetsk	Donetsk Oblast	Ukraine
+47.9166666666667	106.916666666667		Ulan Bator	N/A	Mongolia
+47.9	1.91666666666667		Orléans	N/A	France
+47.8	13.0333333333333		Salzburg	Salzburg	Austria
+47.6166666666667	-122.333333333333		Seattle	Washington	United States
+47.5666666666667	-52.7		St. John's	Newfoundland and Labrador	Canada
+47.5666666666667	7.6		Basel	N/A	Switzerland
+47.4666666666667	19.05		Budapest	N/A	Hungary
+47.4333333333333	123.45		Qiqihar	Heilongjiang	People's Republic of China
+47.3666666666667	8.55		Zürich	N/A	Switzerland
+47.2666666666667	11.3833333333333		Innsbruck	Tyrol	Austria
+47.2333333333333	39.7		Rostov-on-Don	Rostov Oblast	Russia
+47.2166666666667	-1.55		Nantes	Pays de la Loire	France
+47.1333333333333	9.51666666666667		Vaduz	N/A	Liechtenstein
+47.1166666666667	51.8833333333333		Atyrau	Atyrau Region	Kazakhstan
+47.0666666666667	15.4333333333333		Graz	Styria	Austria
+47	28.9166666666667		Chişinău	N/A	Moldova
+46.95	7.45		Bern	N/A	Switzerland
+46.85	29.6333333333333		Tiraspol	Transnistria	Moldova
+46.8166666666667	-71.2166666666667		Quebec City	Quebec	Canada
+46.8166666666667	-100.783333333333		Bismarck	North Dakota	United States
+46.8	-92.1		Duluth	Minnesota	United States
+46.7833333333333	-56.1833333333333		Saint-Pierre	Saint Pierre and Miquelon	France
+46.7666666666667	23.5833333333333		Cluj-Napoca	Cluj County	Romania
+46.7333333333333	-117		Moscow	Idaho	United States
+46.6	-112.033333333333		Helena	Montana	United States
+46.5333333333333	-84.35		Sault Ste. Marie	Ontario	Canada
+46.5166666666667	6.63333333333333		Lausanne	Vaud	Switzerland
+46.4833333333333	-81.0166666666667		Sudbury	Ontario	Canada
+46.4666666666667	30.7333333333333		Odessa	Odessa Oblast	Ukraine
+46.3	-79.45		North Bay	Ontario	Canada
+46.2333333333333	-63.15		Charlottetown	Prince Edward Island	Canada
+46.2	6.15		Geneva	N/A	Switzerland
+46.1333333333333	-64.7666666666667		Moncton	New Brunswick	Canada
+46.05	14.5166666666667		Ljubljana	N/A	Slovenia
+45.95	-66.6666666666667		Fredericton	New Brunswick	Canada
+45.8166666666667	15.9833333333333		Zagreb	N/A	Croatia
+45.7666666666667	4.85		Lyon	Auvergne-Rhône-Alpes	France
+45.75	126.633333333333		Harbin	Heilongjiang	People's Republic of China
+45.6	-62.65		New Glasgow	Nova Scotia	Canada
+45.5166666666667	-122.683333333333		Portland	Oregon	United States
+45.5	-73.5666666666667		Montreal	Quebec	Canada
+45.4666666666667	9.18333333333333		Milan	Lombardy	Italy
+45.4333333333333	12.3333333333333		Venice	Veneto	Italy
+45.4166666666667	-75.6833333333333		Ottawa	Ontario	Canada
+45.4166666666667	141.666666666667		Wakkanai	Hokkaido	Japan
+45.2833333333333	-66.0833333333333		Saint John	New Brunswick	Canada
+45.25	19.85		Novi Sad	Vojvodina	Serbia
+45.0666666666667	7.7		Turin	Piedmont	Italy
+45.0333333333333	38.9666666666667		Krasnodar	Krasnodar Krai	Russia
+44.9833333333333	-93.2666666666667		Minneapolis	Minnesota	United States
+44.95	34.1		Simferopol	Crimea	Ukraine/ Russia (disputed)
+44.85	-63.2		Halifax	Nova Scotia	Canada
+44.8333333333333	-0.583333333333333		Bordeaux	Nouvelle-Aquitaine	France
+44.8166666666667	20.4666666666667		Belgrade	N/A	Serbia
+44.75	19.7		Šabac	N/A	Serbia
+44.6333333333333	22.65		Drobeta Turnu Severin	Mehedinti County	Romania
+44.5	11.35		Bologna	Emilia-Romagna	Italy
+44.4333333333333	26.1		Bucharest	N/A	Romania
+44.4166666666667	12.2		Ravenna	Emilia-Romagna	Italy
+44.4	8.91666666666667		Genoa	Liguria	Italy
+44.3666666666667	-100.333333333333		Pierre	South Dakota	United States
+44.3333333333333	23.8166666666667		Craiova	N/A	Romania
+44.3166666666667	-69.7833333333333		Augusta	Maine	United States
+44.25	-72.5666666666667		Montpelier	Vermont	United States
+43.9166666666667	-69.8166666666667		Bath	Maine	United States
+43.9333333333333	12.45		San Marino	N/A	San Marino
+43.9	125.2		Changchun	Jilin	People's Republic of China
+43.85	18.35		Sarajevo	N/A	Bosnia and Herzegovina
+43.8333333333333	-66.1166666666667		Yarmouth	Nova Scotia	Canada
+43.8333333333333	87.6		Ürümqi	Xinjiang	People's Republic of China
+43.7833333333333	11.25		Florence	Tuscany	Italy
+43.7666666666667	142.366666666667		Asahikawa	Hokkaido	Japan
+43.7333333333333	7.41666666666667		Monaco	N/A	Monaco
+43.7	7.26666666666667		Nice	Provence-Alpes-Côte d'Azur	France
+43.7	-79.4		Toronto	Ontario	Canada
+43.6166666666667	-116.2		Boise	Idaho	United States
+43.6	1.45		Toulouse	Occitanie	France
+43.5833333333333	39.7166666666667		Sochi	Krasnodar Krai	Russia
+43.55	7.01666666666667		Cannes	Provence-Alpes-Côte d'Azur	France
+43.5333333333333	-5.65		Gijón	Principado de Asturias	Spain
+43.5333333333333	-96.7166666666667		Sioux Falls	South Dakota	United States
+43.5	16.4333333333333		Split	N/A	Croatia
+43.3333333333333	145.583333333333		Nemuro	Hokkaido	Japan
+43.3166666666667	-2		San Sebastián	Basque Country	Spain
+43.3	5.36666666666667		Marseille	Provence-Alpes-Côte d'Azur	France
+43.2833333333333	76.9		Almaty	N/A	Kazakhstan
+43.25	-2.91666666666667		Bilbao	Basque Country	Spain
+43.2	-71.5333333333333		Concord	New Hampshire	United States
+43.1666666666667	-77.6166666666667		Rochester	New York	United States
+43.1333333333333	131.9		Vladivostok	Primorsky Krai	Russia
+43.0666666666667	141.35		Sapporo	Hokkaido	Japan
+43.05	-87.95		Milwaukee	Wisconsin	United States
+43	41.0166666666667		Sukhumi	Abkhazia	Georgia
+42.9833333333333	144.383333333333		Kushiro	Hokkaido	Japan
+42.9333333333333	10.7666666666667		Follonica	Tuscany	Italy
+42.9166666666667	143.2		Obihiro	Hokkaido	Japan
+42.9	-78.85		Buffalo	New York	United States
+42.8833333333333	-8.53333333333333		Santiago de Compostela	Galicia	Spain
+42.8666666666667	74.6166666666667		Bishkek	N/A	Kyrgyzstan
+42.85	-2.68333333333333		Vitoria-Gasteiz	Basque Country	Spain
+42.7	23.3333333333333		Sofia	N/A	Bulgaria
+42.6666666666667	21.1666666666667		Pristina	Kosovo	Serbia  Kosovo (disputed)
+42.5	1.5		Andorra la Vella	N/A	Andorra
+42.4666666666667	59.6		Nukus	Karakalpakstan	Uzbekistan
+42.4333333333333	19.2666666666667		Podgorica	N/A	Montenegro
+42.35	-71.0666666666667		Boston	Massachusetts	United States
+42.3333333333333	-83.05		Detroit	Michigan	United States
+42.2833333333333	-83		Windsor	Ontario	Canada
+42.2333333333333	-8.71666666666667		Vigo	Galicia	Spain
+42.2333333333333	43.9666666666667		Tskhinvali	South Ossetia	Georgia
+42.0333333333333	13.4166666666667		Avezzano	Abruzzo	Italy
+42	21.4333333333333		Skopje	N/A	Macedonia
+41.9	12.5		Rome	Lazio	Italy
+41.9	12.45		Vatican City	N/A	Vatican City
+41.8833333333333	-87.6333333333333		Chicago	Illinois	United States
+41.8166666666667	-71.4166666666667		Providence	Rhode Island	United States
+41.8	123.4		Shenyang	Liaoning	People's Republic of China
+41.8	129.783333333333		Chongjin	North Hamgyong	North Korea
+41.7666666666667	-72.6666666666667		Hartford	Connecticut	United States
+41.7666666666667	140.733333333333		Hakodate	Hokkaido	Japan
+41.7166666666667	44.7833333333333		Tbilisi	N/A	Georgia
+41.6666666666667	-4.71666666666667		Valladolid	Castile and León	Spain
+41.65	-0.883333333333333		Zaragoza	Aragon	Spain
+41.5833333333333	-93.6166666666667		Des Moines	Iowa	United States
+41.55	-8.41666666666667		Braga	Braga District	Portugal
+41.4833333333333	-81.6666666666667		Cleveland	Ohio	United States
+41.3833333333333	2.18333333333333		Barcelona	Catalonia	Spain
+41.3333333333333	19.8166666666667		Tirana	N/A	Albania
+41.2666666666667	69.2166666666667		Tashkent	N/A	Uzbekistan
+41.1666666666667	-8.61666666666667		Porto	N/A	Portugal
+41.15	-104.8		Cheyenne	Wyoming	United States
+41.1166666666667	16.8666666666667		Bari	Apulia	Italy
+41.0833333333333	-85.1333333333333		Fort Wayne	Indiana	United States
+41.0166666666667	28.95		Istanbul	N/A	Turkey
+41	39.7333333333333		Trabzon	N/A	Turkey
+41	71.6666666666667		Namangan	N/A	Uzbekistan
+40.85	14.2666666666667		Naples	Campania	Italy
+40.8166666666667	140.75		Aomori	Aomori	Japan
+40.8166666666667	-96.6833333333333		Lincoln	Nebraska	United States
+40.8	-124.15		Eureka	California	United States
+40.75	-111.883333333333		Salt Lake City	Utah	United States
+40.7166666666667	-74.0666666666667		Jersey City	New Jersey	United States
+40.6666666666667	-73.9333333333333		New York City	New York	United States
+40.65	22.9		Thessaloniki	N/A	Greece
+41.6166666666667	0.633333333333333		Lleida	Catalonia	Spain
+40.45	-80		Pittsburgh	Pennsylvania	United States
+40.4	49.8833333333333		Baku	N/A	Azerbaijan
+40.3833333333333	-3.71666666666667		Madrid	Madrid	Spain
+40.2166666666667	-74.7666666666667		Trenton	New Jersey	United States
+40.1833333333333	29.05		Bursa	N/A	Turkey
+40.1833333333333	44.5166666666667		Yerevan	N/A	Armenia
+40.0166666666667	-105.283333333333		Boulder	Colorado	United States
+39.9833333333333	-82.9833333333333		Columbus	Ohio	United States
+39.9333333333333	32.8666666666667		Ankara	N/A	Turkey
+39.95	-75.1666666666667		Philadelphia	Pennsylvania	United States
+39.9166666666667	116.383333333333		Beijing	N/A	People's Republic of China
+39.8166666666667	46.75		Stepanakert	Nagorno-Karabakh Republic	Azerbaijan
+39.8	-74.1		Forked River	New Jersey	United States
+39.7833333333333	30.5166666666667		Eskisehir	N/A	Turkey
+39.7666666666667	-86.15		Indianapolis	Indiana	United States
+39.7333333333333	-104.983333333333		Denver	Colorado	United States
+39.7166666666667	140.116666666667		Akita	Akita	Japan
+39.6833333333333	141.15		Morioka	Iwate	Japan
+39.5666666666667	2.65		Palma	Balearic Islands	Spain
+39.5333333333333	-119.816666666667		Reno	Nevada	United States
+39.4666666666667	-31.2333333333333		Flores Island	Azores	Portugal
+39.4666666666667	-0.383333333333333		Valencia	Valencian Community	Spain
+39.2833333333333	-76.6166666666667		Baltimore	Maryland	United States
+39.25	9.05		Cagliari	Sardinia	Italy
+39.1666666666667	-75.5333333333333		Dover	Delaware	United States
+39.15	127.45		Wonsan	Kangwon	North Korea
+39.1333333333333	117.183333333333		Tianjin	N/A	People's Republic of China
+39.1	-84.5166666666667		Cincinnati	Ohio	United States
+39.1	-94.5833333333333		Kansas City	Missouri	United States
+39.0166666666667	125.733333333333		Pyongyang	N/A	North Korea
+38.9833333333333	1.43333333333333		Ibiza	Balearic Islands	Spain
+38.9166666666667	121.633333333333		Dalian	Liaoning	People's Republic of China
+38.9	-77.0333333333333		Washington	District of Columbia	United States
+38.7166666666667	-9.13333333333333		Lisbon	N/A	Portugal
+38.6333333333333	-90.2		St. Louis	Missouri	United States
+38.5833333333333	-28.7166666666667		Horta	Azores	Portugal
+38.55	-121.466666666667		Sacramento	California	United States
+38.5333333333333	68.7833333333333		Dushanbe	N/A	Tajikistan
+38.4833333333333	-27.2166666666667		Angra do Heroísmo	Azores	Portugal
+38.4666666666667	23.6		Halkida	N/A	Greece
+38.4333333333333	27.15		İzmir	N/A	Turkey
+38.35	-81.6333333333333		Charleston	West Virginia	United States
+38.3333333333333	-0.466666666666667		Alicante	Valencian Community	Spain
+38.2666666666667	140.866666666667		Sendai	Miyagi	Japan
+38.25	-85.7666666666667		Louisville	Kentucky	United States
+38.25	140.333333333333		Yamagata	Yamagata	Japan
+38.1833333333333	15.55		Messina	Sicily	Italy
+38.1166666666667	13.3666666666667		Palermo	Sicily	Italy
+38.0666666666667	46.3		Tabriz	N/A	Iran
+38.05	114.5		Shijiazhuang	Hebei	People's Republic of China
+38.0166666666667	12.5		Trapani	Sicily	Italy
+37.9666666666667	23.7166666666667		Athena	N/A	Greece
+37.9666666666667	126.55		Kaesong	North Hwanghae	North Korea
+37.9333333333333	58.3666666666667		Ashgabat	N/A	Turkmenistan
+37.9166666666667	139.033333333333		Niigata	Niigata	Japan
+37.8666666666667	112.566666666667		Taiyuan	Shanxi	People's Republic of China
+37.8666666666667	32.4833333333333		Konya	N/A	Turkey
+37.8166666666667	-25.75		Ponta Delgada	Azores	Portugal
+37.8	-122.266666666667		Oakland	California	United States
+37.7833333333333	-122.416666666667		San Francisco	California	United States
+37.7666666666667	140.466666666667		Fukushima	Fukushima	Japan
+37.6833333333333	-97.3333333333333		Wichita	Kansas	United States
+37.5666666666667	126.983333333333		Seoul	N/A	South Korea
+37.3333333333333	-121.883333333333		San Jose	California	United States
+37.5	15.0833333333333		Catania	Sicily	Italy
+37.4833333333333	126.633333333333		Incheon	N/A	South Korea
+37.3833333333333	-5.98333333333333		Sevilla	Andalusia	Spain
+37.2166666666667	28.3666666666667		Mugla	N/A	Turkey
+37.2	-93.2833333333333		Springfield	Missouri	United States
+37.0666666666667	37.3833333333333		Gaziantep	N/A	Turkey
+37	35.3166666666667		Adana	N/A	Turkey
+36.85	-75.9833333333333		Virginia Beach	Virginia	United States
+36.8333333333333	-2.46666666666667		Almería	Andalusia	Spain
+36.8	10.1833333333333		Tunis	N/A	Tunisia
+36.8	34.6333333333333		Mersin	N/A	Turkey
+36.7666666666667	3.21666666666667		Algiers	N/A	Algeria
+36.7166666666667	-4.41666666666667		Málaga	Andalusia	Spain
+36.7	137.216666666667		Toyama	Toyama	Japan
+36.6666666666667	116.983333333333		Jinan	Shandong	People's Republic of China
+36.6333333333333	138.183333333333		Nagano	Nagano	Japan
+36.6333333333333	101.766666666667		Xining	Qinghai	People's Republic of China
+36.6	114.483333333333		Handan	Hebei	People's Republic of China
+36.5666666666667	136.65		Kanazawa	Ishikawa	Japan
+36.55	139.883333333333		Utsunomiya	Tochigi	Japan
+36.3833333333333	139.066666666667		Maebashi	Gunma	Japan
+36.3666666666667	140.466666666667		Mito	Ibaraki	Japan
+36.3333333333333	43.1333333333333		Mosul	N/A	Iraq
+36.3	59.6		Mashhad	N/A	Iran
+36.1833333333333	44.0166666666667		Arbil	Iraqi Kurdistan	Iraq
+36.1833333333333	-115.133333333333		Las Vegas	Nevada	United States
+36.1666666666667	-86.7833333333333		Nashville	Tennessee	United States
+36.1333333333333	-5.35		Gibraltar	Gibraltar	United Kingdom
+36.1333333333333	-95.9333333333333		Tulsa	Oklahoma	United States
+36.0666666666667	136.216666666667		Fukui	Fukui	Japan
+36.0666666666667	120.383333333333		Qingdao	Shandong	People's Republic of China
+36.0333333333333	103.8		Lanzhou	Gansu	People's Republic of China
+35.9666666666667	-83.95		Knoxville	Tennessee	United States
+35.9	14.5166666666667		Valletta	N/A	Malta
+35.9	14.4666666666667		Birkirkara	N/A	Malta
+35.8833333333333	-106.3		Los Alamos	New Mexico	United States
+35.8666666666667	128.6		Daegu	N/A	South Korea
+35.8166666666667	-78.65		Raleigh	North Carolina	United States
+35.7666666666667	-5.8		Tanger	Tangier-Assilah	Morocco
+35.7	51.4166666666667		Tehran	Tehran	Iran
+35.6833333333333	139.7		Tokyo	N/A	Japan
+35.6666666666667	-105.966666666667		Santa Fe	New Mexico	United States
+35.6666666666667	138.566666666667		Kōfu	Yamanashi	Japan
+35.6	140.1		Chiba	Chiba	Japan
+35.5166666666667	35.7833333333333		Latakia	N/A	Syria
+35.5166666666667	139.7		Kawasaki	Kanagawa	Japan
+35.5	134.233333333333		Tottori	Tottori	Japan
+35.4833333333333	-97.5333333333333		Oklahoma City	Oklahoma	United States
+35.4666666666667	133.05		Matsue	Shimane	Japan
+35.4666666666667	44.3166666666667		Kirkuk	N/A	Iraq
+35.45	139.633333333333		Yokohama	Kanagawa	Japan
+35.4166666666667	136.766666666667		Gifu	Gifu	Japan
+35.3666666666667	1.31666666666667		Tiaret	N/A	Algeria
+35.3333333333333	25.1333333333333		Heraklion	N/A	Greece
+35.2833333333333	-2.93333333333333		Melilla	Melilla	Spain
+35.2333333333333	-80.85		Charlotte	North Carolina	United States
+35.1833333333333	136.9		Nagoya	Aichi	Japan
+35.1833333333333	129.083333333333		Busan	N/A	South Korea
+35.1666666666667	33.3666666666667		Nicosia	N/A	Cyprus
+35.1166666666667	-89.9666666666667		Memphis	Tennessee	United States
+35.1166666666667	-106.616666666667		Albuquerque	New Mexico	United States
+35.0166666666667	135.85		Ōtsu	Shiga	Japan
+35.0166666666667	135.766666666667		Kyoto	Kyoto	Japan
+34.9833333333333	138.383333333333		Shizuoka	Shizuoka	Japan
+34.7666666666667	113.65		Zhengzhou	Henan	People's Republic of China
+34.7333333333333	-92.3333333333333		Little Rock	Arkansas	United States
+34.7333333333333	10.7666666666667		Sfax	N/A	Tunisia
+34.7166666666667	136.5		Tsu	Mie	Japan
+34.7	135.5		Osaka	Osaka	Japan
+34.6833333333333	135.2		Kōbe	Hyogo	Japan
+34.6833333333333	135.8		Nara	Nara	Japan
+34.65	133.916666666667		Okayama	Okayama	Japan
+34.5333333333333	69.1666666666667		Kabul	N/A	Afghanistan
+34.4333333333333	-119.716666666667		Santa Barbara	California	United States
+34.3833333333333	132.45		Hiroshima	Hiroshima	Japan
+34.35	134.05		Takamatsu	Kagawa	Japan
+34.2666666666667	108.9		Xi'an	Shaanxi	People's Republic of China
+34.2333333333333	135.166666666667		Wakayama	Wakayama	Japan
+34.2166666666667	-77.9166666666667		Wilmington	North Carolina	United States
+34.1833333333333	131.466666666667		Yamaguchi	Yamaguchi	Japan
+34.0833333333333	49.6833333333333		Arak	Markazi	Iran
+34.0833333333333	74.7833333333333		Srinagar	Jammu and Kashmir	India
+34.0666666666667	134.55		Tokushima	Tokushima	Japan
+34.05	-118.25		Los Angeles	California	United States
+34.0333333333333	-6.83333333333333		Rabat	N/A	Morocco
+34.0166666666667	71.5833333333333		Peshawar	Khyber Pakhtunkhwa	Pakistan
+34	-81.05		Columbia	South Carolina	United States
+33.95	-117.4		Riverside	California	United States
+33.8833333333333	35.5166666666667		Beirut	N/A	Lebanon
+33.8333333333333	132.766666666667		Matsuyama	Ehime	Japan
+33.75	-84.3833333333333		Atlanta	Georgia	United States
+33.7166666666667	73.0666666666667		Islamabad	Islamabad Capital Territory	Pakistan
+33.65	-86.8166666666667		Birmingham	Alabama	United States
+33.6	73.0333333333333		Rawalpindi	Punjab	Pakistan
+33.5833333333333	130.4		Fukuoka	Fukuoka	Japan
+33.5666666666667	133.533333333333		Kōchi	Kōchi	Japan
+33.5333333333333	-7.58333333333333		Casablanca	N/A	Morocco
+33.5166666666667	36.3		Damascus	N/A	Syria
+33.45	-112.066666666667		Phoenix	Arizona	United States
+33.3333333333333	44.4333333333333		Baghdad	N/A	Iraq
+33.2666666666667	130.3		Saga	Saga	Japan
+33.2333333333333	131.6		Ōita	Ōita	Japan
+32.9	13.1833333333333		Tripoli	N/A	Libya
+32.7833333333333	-79.9333333333333		Charleston	South Carolina	United States
+32.7833333333333	-96.8		Dallas	Texas	United States
+32.7833333333333	129.866666666667		Nagasaki	Nagasaki	Japan
+32.7833333333333	130.733333333333		Kumamoto	Kumamoto	Japan
+32.7166666666667	-117.166666666667		San Diego	California	United States
+32.6666666666667	-115.466666666667		Mexicali	Baja California	Mexico
+32.65	-16.9166666666667		Funchal	Madeira	Portugal
+32.6333333333333	-115.55		El Centro	California	United States
+32.6333333333333	51.65		Isfahan	N/A	Iran
+32.6166666666667	41.0333333333333		Karbala	N/A	Iraq
+32.5333333333333	-117.033333333333		Tijuana	Baja California	Mexico
+32.4666666666667	-93.7		Shreveport	Louisiana	United States
+32.3	-90.1833333333333		Jackson	Mississippi	United States
+32.3	-64.7833333333333		Hamilton	Bermuda	United Kingdom
+32.2166666666667	-110.933333333333		Tucson	Arizona	United States
+32.1166666666667	20.0666666666667		Benghazi	N/A	Libya
+32.0666666666667	34.7833333333333		Tel Aviv	N/A	Israel
+32.05	118.766666666667		Nanjing	Jiangsu	People's Republic of China
+32	44.3666666666667		Najaf	N/A	Iraq
+31.9333333333333	35.9333333333333		Amman	N/A	Jordan
+31.9166666666667	131.416666666667		Miyazaki	Miyazaki	Japan
+31.85	-116.6		Ensenada	Baja California	Mexico
+31.7833333333333	-106.416666666667		El Paso	Texas	United States
+31.7833333333333	35.2166666666667		Jerusalem	N/A	Israel
+31.7333333333333	-106.483333333333		Ciudad Juárez	Chihuahua	Mexico
+31.6333333333333	74.8666666666667		Amritsar	Punjab	India
+31.6333333333333	-8.01666666666667		Marrakech	N/A	Morocco
+31.6166666666667	65.7166666666667		Kandahar	N/A	Afghanistan
+31.6	130.55		Kagoshima	Kagoshima	Japan
+31.55	74.35		Lahore	Punjab	Pakistan
+31.5166666666667	34.45		Gaza	Gaza Strip	Palestine
+31.4166666666667	73.0833333333333		Faisalabad	Punjab	Pakistan
+31.25	32.2833333333333		Port Said	N/A	Egypt
+31.2	29.9166666666667		Alexandria	N/A	Egypt
+31.2	121.5		Shanghai	N/A	People's Republic of China
+31.1	77.1666666666667		Shimla	Himachal Pradesh	India
+30.9166666666667	75.85		Ludhiana	Punjab	India
+30.75	76.7833333333333		Chandigarh	N/A	India
+30.7	-88.05		Mobile	Alabama	United States
+30.6666666666667	104.066666666667		Chengdu	Sichuan	People's Republic of China
+30.5833333333333	114.283333333333		Wuhan	Hubei	People's Republic of China
+30.5	47.8166666666667		Basra	N/A	Iraq
+30.4333333333333	-9.6		Agadir	Agadir Prefecture	Morocco
+30.3333333333333	-81.6666666666667		Jacksonville	Florida	United States
+30.25	-97.75		Austin	Texas	United States
+30.25	120.166666666667		Hangzhou	Zhejiang	People's Republic of China
+30.2	71.4666666666667		Multan	Punjab	Pakistan
+30.05	31.2333333333333		Cairo	N/A	Egypt
+29.9666666666667	-90.05		New Orleans	Louisiana	United States
+29.9666666666667	32.55		Suez	N/A	Egypt
+29.7666666666667	-95.3833333333333		Houston	Texas	United States
+29.65	91.1		Lhasa	Tibet	People's Republic of China
+29.5666666666667	106.566666666667		Chongqing	N/A	People's Republic of China
+29.55	34.95		Eilat	N/A	Israel
+29.4166666666667	-98.5		San Antonio	Texas	United States
+29.3666666666667	47.9833333333333		Kuwait City	N/A	Kuwait
+29.2666666666667	88.8833333333333		Shigatse	Tibet	People's Republic of China
+29.1	-110.95		Hermosillo	Sonora	Mexico
+28.6333333333333	-106.083333333333		Chihuahua	Chihuahua	Mexico
+28.6166666666667	77.2166666666667		New Delhi	Delhi	India
+28.4666666666667	-16.25		Santa Cruz de Tenerife	Canary Islands	Spain
+28.4166666666667	-81.3		Orlando	Florida	United States
+28.15	-15.4166666666667		Las Palmas de Gran Canaria	Canary Islands	Spain
+27.95	-82.4666666666667		Tampa	Florida	United States
+27.7333333333333	-97.4		Corpus Christi	Texas	United States
+27.7333333333333	-15.5666666666667		Maspalomas	Canary Islands	Spain
+27.7	85.3333333333333		Kathmandu	N/A	Nepal
+27.4833333333333	95		Dibrugarh	Assam	India
+27.4666666666667	89.65		Thimphu	N/A	Bhutan
+27.3333333333333	88.6166666666667		Gangtok	Sikkim	India
+27.1833333333333	78.0166666666667		Agra	Uttar Pradesh	India
+27.15	-13.2		El Aaiún	Western Sahara	Morocco
+27.0333333333333	14.4333333333333		Sabha	N/A	Libya
+26.9333333333333	75.8166666666667		Jaipur	Rajasthan	India
+26.85	80.95		Lucknow	Uttar Pradesh	India
+26.7166666666667	88.4333333333333		Siliguri	West Bengal	India
+26.6333333333333	92.8		Tezpur	Assam	India
+26.4666666666667	80.3333333333333		Kanpur	Uttar Pradesh	India
+26.2833333333333	50.2		Dammam	N/A	Saudi Arabia
+26.2166666666667	127.683333333333		Naha	Okinawa	Japan
+26.2166666666667	50.5833333333333		Manama	N/A	Bahrain
+26.1833333333333	91.7333333333333		Guwahati	Assam	India
+25.9166666666667	-97.4833333333333		Brownsville	Texas	United States
+25.7833333333333	-80.2166666666667		Miami	Florida	United States
+25.6833333333333	32.65		Luxor	N/A	Egypt
+25.6666666666667	-100.3		Monterrey	Nuevo León	Mexico
+25.6166666666667	85.15		Patna	Bihar	India
+25.5666666666667	91.8833333333333		Shillong	Meghalaya	India
+25.5333333333333	-103.45		Torreón	Coahuila	Mexico
+25.3166666666667	79.6333333333333		Kulpahar	Uttar Pradesh	India
+25.2833333333333	51.5333333333333		Doha	N/A	Qatar
+25.25	55.3		Dubai	Dubai	United Arab Emirates
+25.3833333333333	68.3666666666667		Hyderabad	Sindh	Pakistan
+25.0666666666667	-77.3333333333333		Nassau	N/A	Bahamas
+25.0666666666667	102.683333333333		Kunming	Yunnan	People's Republic of China
+25.0333333333333	121.633333333333		Taipei	N/A	Republic of China (Taiwan)
+24.8666666666667	67.0166666666667		Karachi	Sindh	Pakistan
+24.8	-107.383333333333		Culiacán	Sinaloa	Mexico
+24.6333333333333	46.7166666666667		Riyadh	N/A	Saudi Arabia
+24.5666666666667	-81.7833333333333		Key West	Florida	United States
+24.4666666666667	39.6		Medina	N/A	Saudi Arabia
+24.4666666666667	54.3666666666667		Abu Dhabi	Abu Dhabi	United Arab Emirates
+24.2	55.7333333333333		Al Ain	Abu Dhabi	United Arab Emirates
+24.15	120.666666666667		Taichung	N/A	Republic of China (Taiwan)
+24.0166666666667	-104.666666666667		Durango	Durango	Mexico
+23.8333333333333	91.2666666666667		Agartala	Tripura	India
+23.7	90.3833333333333		Dhaka	N/A	Bangladesh
+23.6166666666667	58.6		Muscat	N/A	Oman
+23.1333333333333	-82.3833333333333		Havana	N/A	Cuba
+23.1333333333333	113.266666666667		Guangzhou	Guangdong	People's Republic of China
+23.0333333333333	72.5833333333333		Ahmedabad	Gujarat	India
+23.0333333333333	113.716666666667		Dongguan	Guangdong	People's Republic of China
+22.9833333333333	120.183333333333		Tainan	N/A	Republic of China (Taiwan)
+22.8833333333333	-109.916666666667		Cabo San Lucas	Baja California Sur	Mexico
+22.8166666666667	108.316666666667		Nanning	Guangxi	People's Republic of China
+22.6333333333333	120.266666666667		Kaohsiung	N/A	Republic of China (Taiwan)
+22.5666666666667	88.3666666666667		Kolkata (Calcutta)	West Bengal	India
+22.55	114.1		Shenzhen	Guangdong	People's Republic of China
+22.3666666666667	91.8		Chittagong	N/A	Bangladesh
+22.2833333333333	114.166666666667		Hong Kong	Hong Kong	People's Republic of China
+22.25	-97.8666666666667		Tampico	Tamaulipas	Mexico
+22.1666666666667	113.55		Macau	Macau	People's Republic of China
+22.15	-100.85		San Luis Potosí	San Luis Potosí	Mexico
+21.8833333333333	-102.3		Aguascalientes	Aguascalientes	Mexico
+21.55	39.1666666666667		Jeddah	N/A	Saudi Arabia
+21.4666666666667	-71.1333333333333		Cockburn Town	Turks and Caicos Islands	United Kingdom
+21.4166666666667	39.8166666666667		Mecca	N/A	Saudi Arabia
+21.3166666666667	-157.833333333333		Honolulu	Hawaii	United States
+21.25	81.6333333333333		Raipur	Chhattisgarh	India
+21.1666666666667	-86.85		Cancún	Quintana Roo	Mexico
+21.1666666666667	72.8333333333333		Surat	Gujarat	India
+21.1333333333333	79.0833333333333		Nagpur	Maharashtra	India
+21.1166666666667	-101.683333333333		León	Guanajuato	Mexico
+21.0333333333333	105.85		Hanoi	N/A	Vietnam
+20.9666666666667	-89.6166666666667		Mérida	Yucatán	Mexico
+20.85	106.683333333333		Hai Phong	N/A	Vietnam
+20.7166666666667	-103.4		Zapopan	Jalisco	Mexico
+20.6666666666667	-105.266666666667		Puerto Vallarta	Jalisco	Mexico
+20.6666666666667	-103.35		Guadalajara	Jalisco	Mexico
+20.5833333333333	-100.4		Querétaro	Querétaro	Mexico
+20.0666666666667	110.566666666667		Haikou	Hainan	People's Republic of China
+20.0166666666667	-75.8166666666667		Santiago de Cuba	N/A	Cuba
+19.9166666666667	99.8333333333333		Chiang Rai	Chiang Rai Province	Thailand
+19.75	96.1		Naypyidaw	N/A	Myanmar
+19.7	-155.083333333333		Hilo	Hawaii	United States
+19.4333333333333	-99.1333333333333		Mexico City	N/A	Mexico
+19.3	-81.3833333333333		George Town	Cayman Islands	United Kingdom
+19.1833333333333	-96.15		Veracruz	Veracruz	Mexico
+19.05	-98.2166666666667		Puebla	Puebla	Mexico
+18.9833333333333	72.8333333333333		Mumbai	Maharashtra	India
+18.8	99		Chiang Mai	Chiang Mai Province	Thailand
+18.5333333333333	-72.3333333333333		Port-au-Prince	N/A	Haiti
+18.5166666666667	73.85		Pune	Maharashtra	India
+18.4666666666667	-69.95		Santo Domingo	N/A	Dominican Republic
+18.45	-66.0666666666667		San Juan	Puerto Rico	United States
+18.4333333333333	-64.6166666666667		Road Town	British Virgin Islands	United Kingdom
+18.35	-64.95		Charlotte Amalie	United States Virgin Islands	United States
+18.2166666666667	-63.05		The Valley	Anguilla	United Kingdom
+18.1	-15.95		Nouakchott	N/A	Mauritania
+17.9833333333333	-76.8		Kingston	N/A	Jamaica
+17.9666666666667	102.6		Vientiane	N/A	Laos
+17.6833333333333	83.2166666666667		Visakhapatnam	Andhra Pradesh	India
+17.5	-88.1833333333333		Belize City	N/A	Belize
+17.4166666666667	102.75		Udon Thani	N/A	Thailand
+17.3666666666667	78.4833333333333		Hyderabad	Telangana	India
+17.3	-62.7333333333333		Basseterre	N/A	Saint Kitts and Nevis
+17.25	-88.7666666666667		Belmopan	N/A	Belize
+17.1166666666667	-61.85		St. John's	N/A	Antigua and Barbuda
+17.0166666666667	54.0833333333333		Salalah	N/A	Oman
+16.8666666666667	-99.8833333333333		Acapulco	Guerrero	Mexico
+16.8	96.15		Yangon	N/A	Myanmar
+16.7833333333333	-3.01666666666667		Timbuktu	N/A	Mali
+16.4666666666667	107.583333333333		Huế	N/A	Vietnam
+16.4333333333333	102.833333333333		Khon Kaen	N/A	Thailand
+16.0666666666667	108.233333333333		Da Nang	N/A	Vietnam
+16	-61.7333333333333		Basse-Terre	Guadeloupe	France
+15.65	32.4833333333333		Omdurman	N/A	Sudan
+15.6333333333333	32.5333333333333		Khartoum	N/A	Sudan
+15.35	44.2		Sana'a	N/A	Yemen
+15.3333333333333	38.9333333333333		Asmara	N/A	Eritrea
+15.3	-61.3833333333333		Roseau	N/A	Dominica
+15.1833333333333	145.75		Saipan	Northern Mariana Islands	United States
+15.1833333333333	108.883333333333		Son My	N/A	Vietnam
+14.9833333333333	102.1		Nakhon Ratchasima	N/A	Thailand
+14.9166666666667	-23.5166666666667		Praia	N/A	Cape Verde
+14.9	-92.2666666666667		Tapachula	Chiapas	Mexico
+14.8333333333333	-91.5166666666667		Quetzaltenango	N/A	Guatemala
+14.7833333333333	-16.9166666666667		Thiès	N/A	Senegal
+14.7	-17.45		Dakar	N/A	Senegal
+14.6333333333333	121.033333333333		Quezon City	National Capital Region	Philippines
+14.6166666666667	-90.5333333333333		Guatemala City	N/A	Guatemala
+14.6	-61.0833333333333		Fort-de-France	Martinique	France
+14.5833333333333	120.966666666667		Manila	National Capital Region	Philippines
+14.55	121.033333333333		Makati	National Capital Region	Philippines
+14.35	100.566666666667		Ayutthaya	N/A	Thailand
+14.1	-87.2166666666667		Tegucigalpa	N/A	Honduras
+14.0166666666667	-60.9833333333333		Castries	N/A	Saint Lucia
+13.75	100.466666666667		Bangkok	N/A	Thailand
+13.6833333333333	-89.1833333333333		San Salvador	N/A	El Salvador
+13.5166666666667	2.1		Niamey	N/A	Niger
+13.5166666666667	144.833333333333		Dededo	Guam	United States
+13.4833333333333	144.75		Hagåtña	Guam	United States
+13.45	-16.5833333333333		Banjul	N/A	Gambia
+13.4333333333333	-16.6666666666667		Serekunda	N/A	Gambia
+13.3666666666667	103.866666666667		Siem Reap	N/A	Cambodia
+13.2666666666667	-16.65		Brikama	N/A	Gambia
+13.15	-61.2333333333333		Kingstown	N/A	Saint Vincent and the Grenadines
+13.1	-59.6166666666667		Bridgetown	N/A	Barbados
+13.0833333333333	80.2666666666667		Chennai (Madras)	Tamil Nadu	India
+12.9666666666667	77.5666666666667		Bangalore	Karnataka	India
+12.9333333333333	100.883333333333		Pattaya	N/A	Thailand
+12.8666666666667	-7.56666666666667		Koulikoro	N/A	Mali
+12.65	-8		Bamako	N/A	Mali
+12.6166666666667	-87.15		Chinandega	N/A	Nicaragua
+12.5166666666667	-70.0333333333333		Oranjestad	Aruba	Netherlands
+12.35	-1.53333333333333		Ouagadougou	N/A	Burkina Faso
+12.1333333333333	-86.25		Managua	N/A	Nicaragua
+12.1166666666667	-68.9333333333333		Willemstad	Curaçao	Netherlands
+12.1166666666667	15.05		N'Djamena	N/A	Chad
+12.05	-61.75		St. George's	N/A	Grenada
+12	8.51666666666667		Kano	N/A	Nigeria
+11.85	-15.5666666666667		Bissau	N/A	Guinea-Bissau
+11.6666666666667	92.7666666666667		Port Blair	Andaman and Nicobar Islands	India
+11.5833333333333	43.15		Djibouti	N/A	Djibouti
+11.55	104.916666666667		Phnom Penh	N/A	Cambodia
+11.1833333333333	-4.28333333333333		Bobo-Dioulasso	N/A	Burkina Faso
+10.9666666666667	-74.8		Barranquilla	N/A	Colombia
+10.7666666666667	106.683333333333		Ho Chi Minh City	N/A	Vietnam
+10.7166666666667	122.566666666667		Iloilo City	Iloilo	Philippines
+10.6666666666667	-61.5166666666667		Port of Spain	N/A	Trinidad and Tobago
+10.65	-71.6333333333333		Maracaibo	N/A	Venezuela
+10.6333333333333	-85.4333333333333		Liberia	N/A	Costa Rica
+10.5	-66.9166666666667		Caracas	N/A	Venezuela
+10.5	-61.3833333333333		Chaguanas	N/A	Trinidad and Tobago
+10.4	-75.5		Cartagena	N/A	Colombia
+10.2833333333333	-61.4666666666667		San Fernando	N/A	Trinidad and Tobago
+10.2833333333333	123.9		Cebu City	Cebu	Philippines
+10.25	-67.6		Maracay	N/A	Venezuela
+10.1833333333333	-68		Valencia	Carabobo	Venezuela
+10.0166666666667	-84.2166666666667		Alajuela	N/A	Costa Rica
+9.98333333333333	-83.0333333333333		Limón	N/A	Costa Rica
+9.66666666666667	80		Jaffna	N/A	Sri Lanka
+9.56666666666667	44.0666666666667		Hargeisa	Somaliland	Somalia
+9.96666666666667	-84.8333333333333		Puntarenas	N/A	Costa Rica
+9.96666666666667	76.2833333333333		Kochi	Kerala	India
+9.93333333333333	-84.0833333333333		San José	N/A	Costa Rica
+9.65	123.85		Tagbilaran	Northern Samar	Philippines
+9.51666666666667	-13.7166666666667		Conakry	N/A	Guinea
+9.4	-0.85		Tamale	N/A	Ghana
+9.13333333333333	99.3333333333333		Surat Thani	N/A	Thailand
+9.06666666666667	7.48333333333333		Abuja	N/A	Nigeria
+9.03333333333333	38.7333333333333		Addis Ababa	N/A	Ethiopia
+8.98333333333333	-79.5166666666667		Panama City	N/A	Panama
+8.58333333333333	-71.1333333333333		Mérida	Mérida	Venezuela
+8.56666666666667	16.0833333333333		Moundou	N/A	Chad
+8.48333333333333	76.95		Trivandrum	Kerala	India
+8.48333333333333	-13.2333333333333		Freetown	N/A	Sierra Leone
+8.11666666666667	-63.55		Ciudad Bolívar	N/A	Venezuela
+7.9	-72.5		Cúcuta	N/A	Colombia
+7.88333333333333	98.4		Phuket	N/A	Thailand
+7.75	-72.2166666666667		San Cristóbal	Táchira	Venezuela
+7.75	-8.81666666666667		Nzérékoré	N/A	Guinea
+7.71666666666667	81.7		Batticaloa	N/A	Sri Lanka
+7.48333333333333	134.6		Melekeok	N/A	Palau
+7.45	151.85		Weno	N/A	Federated States of Micronesia
+7.4	3.91666666666667		Ibadan	N/A	Nigeria
+7.36666666666667	134.483333333333		Koror	N/A	Palau
+7.3	80.6333333333333		Kandy	N/A	Sri Lanka
+7.06666666666667	171.266666666667		Majuro	N/A	Marshall Islands
+7.06666666666667	125.6		Davao City	Davao del Norte	Philippines
+7.01666666666667	100.466666666667		Hat Yai	N/A	Thailand
+6.93333333333333	79.85		Colombo	N/A	Sri Lanka
+6.91666666666667	158.166666666667		Palikir	N/A	Federated States of Micronesia
+6.91666666666667	79.8833333333333		Sri Jayawardenapura-Kotte	N/A	Sri Lanka
+6.9	122.066666666667		Zamboanga City	Zamboanga del Sur	Philippines
+6.81666666666667	-5.28333333333333		Yamoussoukro	N/A	Ivory Coast
+6.8	-58.1666666666667		Georgetown	N/A	Guyana
+6.66666666666667	-1.61666666666667		Kumasi	N/A	Ghana
+6.5	2.6		Porto-Novo	N/A	Benin
+6.45	3.4		Lagos	N/A	Nigeria
+6.45	7.51666666666667		Enugu	N/A	Nigeria
+6.36666666666667	2.43333333333333		Cotonou	N/A	Benin
+6.31666666666667	5.6		Benin City	N/A	Nigeria
+6.31666666666667	-10.8		Monrovia	N/A	Liberia
+6.23333333333333	-75.5833333333333		Medellín	N/A	Colombia
+6.13333333333333	1.21666666666667		Lomé	N/A	Togo
+6.13333333333333	102.25		Kota Bharu	Kelantan	Malaysia
+6.11666666666667	100.366666666667		Alor Setar	Kedah	Malaysia
+5.96666666666667	116.1		Kota Kinabalu	Sabah	Malaysia
+5.86666666666667	-55.1666666666667		Paramaribo	N/A	Suriname
+5.66666666666667	-67.6333333333333		Puerto Ayacucho	N/A	Venezuela
+5.55	-0.2		Accra	Greater Accra	Ghana
+5.55	95.3166666666667		Banda Aceh	Aceh	Indonesia
+5.41666666666667	100.316666666667		George Town	Penang	Malaysia
+5.31666666666667	-4.03333333333333		Abidjan	N/A	Ivory Coast
+4.91666666666667	-52.3333333333333		Cayenne	French Guiana	France
+4.91666666666667	-1.76666666666667		Sekondi-Takoradi	N/A	Ghana
+4.88333333333333	114.95		Bandar Seri Begawan	N/A	Brunei
+4.85	31.6		Juba	N/A	South Sudan
+4.75	7		Port Harcourt	N/A	Nigeria
+4.6	101.066666666667		Ipoh	Perak	Malaysia
+4.6	-74.0833333333333		Bogotá	N/A	Colombia
+4.4	114		Miri	Sarawak	Malaysia
+4.36666666666667	18.5833333333333		Bangui	N/A	Central African Republic
+4.18333333333333	73.5166666666667		Malé	N/A	Maldives
+4.05	9.7		Douala	N/A	Cameroon
+3.86666666666667	11.5166666666667		Yaoundé	N/A	Cameroon
+3.75	8.78333333333333		Malabo	N/A	Equatorial Guinea
+3.58333333333333	98.6666666666667		Medan	North Sumatera	Indonesia
+3.41666666666667	-76.5166666666667		Santiago de Cali	N/A	Colombia
+3.15	101.7		Kuala Lumpur	Federal Territory	Malaysia
+2.81666666666667	-60.6666666666667		Boa Vista	Roraima	Brazil
+2.2	102.25		Malacca Town	Malacca	Malaysia
+2.03333333333333	45.35		Mogadishu	N/A	Somalia
+1.56666666666667	110.35		Kuching	Sarawak	Malaysia
+1.48333333333333	103.733333333333		Johor Bahru	Johor	Malaysia
+1.43333333333333	173		South Tarawa	N/A	Kiribati
+1.28333333333333	103.833333333333		Singapore	N/A	Singapore
+0.533333333333333	101.45		Pekanbaru	Riau	Indonesia
+0.383333333333333	9.45		Libreville	N/A	Gabon
+0.333333333333333	6.68333333333333		São Tomé	N/A	São Tomé and Príncipe
+0.316666666666667	32.5833333333333		Kampala	N/A	Uganda
+0.05	32.4666666666667		Entebbe	N/A	Uganda
+0.05	18.25		Mbandaka	Équateur	Democratic Republic of the Congo
+0.0333333333333333	-51.0666666666667		Macapá	Amapá	Brazil
+-0.0166666666666667	109.333333333333		Pontianak	West Kalimantan	Indonesia
+-0.25	-78.5833333333333		Quito	N/A	Ecuador
+-0.35	42.55		Kismayo	N/A	Somalia
+-0.55	166.916666666667		Yaren District	N/A	Nauru
+-0.95	100.35		Padang	West Sumatera	Indonesia
+-1.26666666666667	116.833333333333		Balikpapan	East Kalimantan	Indonesia
+-1.28333333333333	36.8166666666667		Nairobi	N/A	Kenya
+-1.45	-48.5		Belém	Pará	Brazil
+-1.95	30.0666666666667		Kigali	N/A	Rwanda
+-2.18333333333333	-79.8833333333333		Guayaquil	N/A	Ecuador
+-2.51666666666667	32.9		Mwanza	N/A	Tanzania
+-2.53333333333333	-44.3		São Luís	Maranhão	Brazil
+-2.53333333333333	140.716666666667		Jayapura	Papua	Indonesia
+-2.98333333333333	104.75		Palembang	South Sumatera	Indonesia
+-3.1	-60.0166666666667		Manaus	Amazonas	Brazil
+-3.38333333333333	29.3666666666667		Bujumbura	N/A	Burundi
+-3.66666666666667	-40.2333333333333		Sobral	Ceará	Brazil
+-3.7	128.166666666667		Ambon	Maluku	Indonesia
+-3.71666666666667	-38.55		Fortaleza	Ceará	Brazil
+-3.73333333333333	-73.25		Iquitos	N/A	Peru
+-3.85	-32.4166666666667		Fernando de Noronha	Pernambuco	Brazil
+-4.05	39.6666666666667		Mombasa	N/A	Kenya
+-4.26666666666667	15.3		Brazzaville	N/A	Republic of the Congo
+-4.33333333333333	15.3166666666667		Kinshasa	N/A	Democratic Republic of the Congo
+-4.61666666666667	55.45		Victoria	N/A	Seychelles
+-5.1	-42.8		Teresina	Piauí	Brazil
+-5.13333333333333	119.416666666667		Makassar	South Sulawesi	Indonesia
+-5.53333333333333	-47.4833333333333		Imperatriz	Maranhão	Brazil
+-5.78333333333333	-35.2		Natal	Rio Grande do Norte	Brazil
+-6.16666666666667	39.2		Zanzibar City	N/A	Tanzania
+-6.16666666666667	35.75		Dodoma	N/A	Tanzania
+-6.2	106.8		Jakarta	Jakarta	Indonesia
+-6.6	106.8		Bogor	West Java	Indonesia
+-6.8	39.2833333333333		Dar es Salaam	N/A	Tanzania
+-6.91666666666667	107.616666666667		Bandung	West Java	Indonesia
+-6.96666666666667	110.416666666667		Semarang	Central Java	Indonesia
+-7.08333333333333	-34.8333333333333		João Pessoa	Paraíba	Brazil
+-7.2	-39.3333333333333		Juazeiro do Norte	Ceará	Brazil
+-7.23333333333333	-35.8833333333333		Campina Grande	Paraíba	Brazil
+-7.26666666666667	112.75		Surabaya	East Java	Indonesia
+-7.8	110.366666666667		Yogyakarta	Special Region of Yogyakarta	Indonesia
+-7.98333333333333	112.616666666667		Malang	East Java	Indonesia
+-8.05	-34.9		Recife	Pernambuco	Brazil
+-8.11666666666667	-79.0333333333333		Trujillo	N/A	Peru
+-8.28333333333333	-35.9833333333333		Caruaru	Pernambuco	Brazil
+-8.51666666666667	179.216666666667		Funafuti	N/A	Tuvalu
+-8.55	125.583333333333		Dili	N/A	Timor-Leste
+-8.65	115.216666666667		Denpasar	Bali	Indonesia
+-8.76666666666667	-63.9		Porto Velho	Rondônia	Brazil
+-8.83333333333333	13.2333333333333		Luanda	N/A	Angola
+-8.88333333333333	-36.5		Garanhuns	Pernambuco	Brazil
+-9.38333333333333	179.85		Nukulaelae	N/A	Tuvalu
+-9.4	-40.5		Petrolina	Pernambuco	Brazil
+-9.46666666666667	159.816666666667		Honiara	N/A	Solomon Islands
+-9.51666666666667	147.216666666667		Port Moresby	N/A	Papua New Guinea
+-9.66666666666667	-35.7333333333333		Maceió	Alagoas	Brazil
+-9.96666666666667	-67.8166666666667		Rio Branco	Acre	Brazil
+-10.9166666666667	-37.05		Aracaju	Sergipe	Brazil
+-10.1833333333333	-48.3333333333333		Palmas	Tocantins	Brazil
+-11.6666666666667	27.4666666666667		Lubumbashi	N/A	Democratic Republic of the Congo
+-11.75	43.2		Moroni	N/A	Comoros
+-11.85	-55.65		Sinop	Mato Grosso	Brazil
+-12.05	-77.0333333333333		Lima	Lima Province	Peru
+-12.45	130.833333333333		Darwin	Northern Territory	Australia
+-12.7666666666667	15.7333333333333		Huambo	N/A	Angola
+-12.7833333333333	45.2333333333333		Mamoudzou	Mayotte	France
+-12.9666666666667	28.6333333333333		Ndola	N/A	Zambia
+-12.9666666666667	-38.4833333333333		Salvador	Bahia	Brazil
+-13.1666666666667	-74.2166666666667		Ayacucho	N/A	Peru
+-13.2833333333333	-176.183333333333		Mata-Utu	Wallis and Futuna	France
+-13.5333333333333	-71.9666666666667		Cusco	N/A	Peru
+-13.8333333333333	-171.75		Apia	N/A	Samoa
+-13.9833333333333	33.7833333333333		Lilongwe	N/A	Malawi
+-14.2833333333333	-170.7		Pago Pago	American Samoa	United States
+-14.7833333333333	-39.05		Ilhéus	Bahia	Brazil
+-15.4166666666667	28.2833333333333		Lusaka	N/A	Zambia
+-15.6	-56.1		Cuiabá	Mato Grosso	Brazil
+-15.7833333333333	35		Blantyre	Southern Region	Malawi
+-15.8	-47.8666666666667		Brasília	Distrito Federal	Brazil
+-15.9166666666667	-5.71666666666667		Jamestown	Saint Helena	United Kingdom
+-16.4	-71.5333333333333		Arequipa	N/A	Peru
+-16.4333333333333	179.366666666667		Labasa	N/A	Fiji
+-16.5	-180		Rabi Island	N/A	Fiji
+-16.5	-68.15		La Paz	N/A	Bolivia
+-16.6666666666667	-49.25		Goiânia	Goiás	Brazil
+-16.9333333333333	145.783333333333		Cairns	Queensland	Australia
+-17.5333333333333	-149.566666666667		Papeete	French Polynesia	France
+-17.75	168.3		Port Vila	N/A	Vanuatu
+-17.8	-63.1666666666667		Santa Cruz de la Sierra	N/A	Bolivia
+-17.85	25.8666666666667		Livingstone	N/A	Zambia
+-17.8666666666667	31.0333333333333		Harare	Harare	Zimbabwe
+-18.1333333333333	178.45		Suva	N/A	Fiji
+-18.4833333333333	-70.3333333333333		Arica	N/A	Chile
+-18.85	-41.9333333333333		Governador Valadares	Minas Gerais	Brazil
+-18.9166666666667	-48.2833333333333		Uberlândia	Minas Gerais	Brazil
+-18.9333333333333	47.5166666666667		Antananarivo	N/A	Madagascar
+-18.9666666666667	32.6333333333333		Mutare	Manicaland	Zimbabwe
+-19.05	-65.25		Sucre	N/A	Bolivia
+-19.05	-169.916666666667		Alofi	Niue	New Zealand
+-19.25	146.816666666667		Townsville	Queensland	Australia
+-19.45	29.8		Gweru	Midlands	Zimbabwe
+-19.9166666666667	-43.9333333333333		Belo Horizonte	Minas Gerais	Brazil
+-20.1666666666667	57.5		Port Louis	N/A	Mauritius
+-20.1666666666667	28.5833333333333		Bulawayo	Bulawayo	Zimbabwe
+-20.2166666666667	-70.15		Iquique	N/A	Chile
+-20.3166666666667	118.6		Port Hedland	Western Australia	Australia
+-20.3166666666667	-40.3333333333333		Vitória	Espírito Santo	Brazil
+-20.4666666666667	-54.6166666666667		Campo Grande	Mato Grosso do Sul	Brazil
+-20.8	-49.3833333333333		São José do Rio Preto	São Paulo	Brazil
+-20.8833333333333	55.45		Saint-Denis	Réunion	France
+-21.1333333333333	-175.2		Nukuʻalofa	N/A	Tonga
+-21.1666666666667	27.5166666666667		Francistown	N/A	Botswana
+-21.1833333333333	-47.8		Ribeirão Preto	São Paulo	Brazil
+-21.2	-159.766666666667		Avarua	Cook Islands	New Zealand
+-21.7666666666667	-43.35		Juiz de Fora	Minas Gerais	Brazil
+-21.7833333333333	-46.5666666666667		Poços de Caldas	Minas Gerais	Brazil
+-21.8	-48.1833333333333		Araraquara	São Paulo	Brazil
+-22.2833333333333	166.45		Nouméa	New Caledonia	France
+-22.3166666666667	-49.0666666666667		Bauru	São Paulo	Brazil
+-22.4666666666667	-68.9333333333333		Calama	N/A	Chile
+-22.5666666666667	17.0833333333333		Windhoek	N/A	Namibia
+-22.6666666666667	-50.4166666666667		Assis	São Paulo	Brazil
+-22.9	-47.05		Campinas	São Paulo	Brazil
+-22.9166666666667	-43.2		Rio de Janeiro	Rio de Janeiro	Brazil
+-23.1833333333333	-45.8833333333333		São José dos Campos	São Paulo	Brazil
+-23.3833333333333	150.516666666667		Rockhampton	Queensland	Australia
+-23.55	-46.6333333333333		São Paulo	São Paulo	Brazil
+-23.65	-70.4		Antofagasta	N/A	Chile
+-23.9	29.45		Polokwane	Limpopo	South Africa
+-24.65	25.9166666666667		Gaborone	N/A	Botswana
+-24.7833333333333	-65.4166666666667		Salta	Salta	Argentina
+-25.0666666666667	-130.1		Adamstown	Pitcairn Islands	United Kingdom
+-25.2833333333333	-57.6333333333333		Asunción	N/A	Paraguay
+-25.4166666666667	-49.25		Curitiba	Paraná	Brazil
+-25.4666666666667	30.9833333333333		Nelspruit	Mpumalanga	South Africa
+-25.5166666666667	-54.6166666666667		Ciudad del Este	N/A	Paraguay
+-25.75	28.1833333333333		Pretoria	Gauteng	South Africa
+-25.85	25.6333333333333		Mafikeng	North West	South Africa
+-25.9666666666667	32.5833333333333		Maputo	N/A	Mozambique
+-26.2	28.05		Johannesburg	Gauteng	South Africa
+-26.3166666666667	31.1333333333333		Mbabane	N/A	Swaziland
+-26.4166666666667	31.1666666666667		Lobamba	N/A	Swaziland
+-26.4833333333333	31.3666666666667		Manzini	N/A	Swaziland
+-26.8166666666667	-65.2166666666667		San Miguel de Tucumán	Tucumán	Argentina
+-27.15	-109.433333333333		Hanga Roa	Easter Island	Chile
+-27.3666666666667	-70.3333333333333		Copiapó	N/A	Chile
+-27.4666666666667	153.033333333333		Brisbane	Queensland	Australia
+-27.4833333333333	-58.8166666666667		Corrientes	Corrientes	Argentina
+-27.8333333333333	-48.4166666666667		Florianópolis	Santa Catarina	Brazil
+-28.0166666666667	153.4		Gold Coast	Queensland	Australia
+-28.75	24.7666666666667		Kimberley	Northern Cape	South Africa
+-29.0666666666667	167.966666666667		Kingston	Norfolk Island	Australia
+-29.1166666666667	26.2166666666667		Bloemfontein	Free State	South Africa
+-29.3166666666667	27.4833333333333		Maseru	N/A	Lesotho
+-29.6166666666667	30.3833333333333		Pietermaritzburg	KwaZulu-Natal	South Africa
+-29.8833333333333	31.05		Durban	KwaZulu-Natal	South Africa
+-29.9	-71.25		La Serena	N/A	Chile
+-30.0333333333333	-51.2333333333333		Porto Alegre	Rio Grande do Sul	Brazil
+-31.4166666666667	-64.1833333333333		Córdoba	Córdoba	Argentina
+-31.6333333333333	-60.7		Santa Fe	Santa Fe	Argentina
+-31.7666666666667	-52.35		Pelotas	Rio Grande do Sul	Brazil
+-31.95	115.866666666667		Perth	Western Australia	Australia
+-32.5333333333333	115.716666666667		Mandurah	Western Australia	Australia
+-32.85	27.4333333333333		Bhisho	Eastern Cape	South Africa
+-32.8833333333333	-68.8166666666667		Mendoza	Mendoza	Argentina
+-32.9166666666667	151.75		Newcastle	New South Wales	Australia
+-32.95	-60.6666666666667		Rosario	Santa Fe	Argentina
+-33	-71.5166666666667		Viña del Mar	N/A	Chile
+-33.05	-71.6166666666667		Valparaíso	N/A	Chile
+-33.45	-70.6666666666667		Santiago	N/A	Chile
+-33.6833333333333	-53.45		Chuí	Rio Grande do Sul	Brazil
+-33.8666666666667	151.216666666667		Sydney	New South Wales	Australia
+-33.9333333333333	18.4166666666667		Cape Town	Western Cape	South Africa
+-33.95	25.6		Port Elizabeth	Eastern Cape	South Africa
+-34.4333333333333	150.883333333333		Wollongong	New South Wales	Australia
+-34.6	-58.3833333333333		Buenos Aires		Argentina
+-34.8833333333333	-56.1833333333333		Montevideo	N/A	Uruguay
+-34.9333333333333	138.6		Adelaide	South Australia	Australia
+-35.3	149.116666666667		Canberra	Australian Capital Territory	Australia
+-36.8333333333333	-73.05		Concepción	N/A	Chile
+-36.8333333333333	174.733333333333		Auckland	N/A	New Zealand
+-37.0666666666667	-12.3166666666667		Edinburgh of the Seven Seas	Tristan da Cunha	United Kingdom
+-37.7833333333333	175.283333333333		Hamilton	N/A	New Zealand
+-37.8166666666667	144.966666666667		Melbourne	Victoria	Australia
+-38	-57.55		Mar del Plata	Buenos Aires Province	Argentina
+-38.15	144.35		Geelong	Victoria	Australia
+-38.7166666666667	-62.2666666666667		Bahía Blanca	Buenos Aires Province	Argentina
+-38.75	-72.6666666666667		Temuco	N/A	Chile
+-38.95	-68.05		Neuquén	Neuquén	Argentina
+-39.65	176.833333333333		Hastings	N/A	New Zealand
+-39.8166666666667	-73.25		Valdivia	N/A	Chile
+-41.15	-71.3		San Carlos de Bariloche	Río Negro	Argentina
+-41.2666666666667	173.283333333333		Nelson	N/A	New Zealand
+-41.2833333333333	174.783333333333		Wellington	Wellington Region	New Zealand
+-41.4666666666667	-72.9333333333333		Puerto Montt	N/A	Chile
+-42.8833333333333	147.333333333333		Hobart	Tasmania	Australia
+-43.25	-65.3		Trelew	Chubut	Argentina
+-43.5333333333333	172.616666666667		Christchurch	Canterbury	New Zealand
+-43.95	176.55		Waitangi	Chatham Islands	New Zealand
+-45.4	-72.6833333333333		Puerto Aisén	N/A	Chile
+-45.5666666666667	-72.0666666666667		Coihaique	N/A	Chile
+-45.8666666666667	-67.4833333333333		Comodoro Rivadavia	Chubut	Argentina
+-45.8666666666667	170.5		Dunedin	Otago	New Zealand
+-46.4166666666667	168.35		Invercargill	Southland	New Zealand
+-51.6333333333333	-69.2166666666667		Río Gallegos	Santa Cruz	Argentina
+-51.7	-57.8666666666667		Stanley	Falkland Islands	United Kingdom
+-53.1666666666667	-70.9333333333333		Punta Arenas	N/A	Chile
+-54.2833333333333	-36.5		Grytviken	South Georgia and the South Sandwich Islands	United Kingdom
+-54.8	-68.3		Ushuaia	Tierra del Fuego	Argentina
+-54.9333333333333	-67.6166666666667		Puerto Williams	N/A	Chile
+-55.0833333333333	-67.0833333333333		Puerto Toro	N/A	Chile
+-62.2	-58.9666666666667		Villa Las Estrellas	Antártica Chilena Province	Chile
+-63.4	-56.9833333333333		Esperanza	Argentine Antarctica	Argentina
+-67.5666666666667	-68.1333333333333		Rothera	British Antarctic Territory	United Kingdom
