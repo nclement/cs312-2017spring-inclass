@@ -12,9 +12,9 @@ public class Bank
         BankAccount newThing = new BankAccount();
         
         
-        BankAccount drumpf = new BankAccount("Drumpf", 10_000_000, 0.03, BankAccount.AccountType.EXECUTIVE);
-        BankAccount nate_dogg = new BankAccount("Nathan Clement", 36.60, 0.01, BankAccount.AccountType.STUDENT);
-        BankAccount nat_pro = new BankAccount("Nate Cleme", 500, 0.03, BankAccount.AccountType.STUDENT);
+        BankAccount drumpf = new BankAccount("Drumpf", 10_000_000, 0.03, AccountType.EXECUTIVE);
+        BankAccount nate_dogg = new BankAccount("Nathan Clement", 36.60, 0.01, AccountType.STUDENT);
+        BankAccount nat_pro = new BankAccount("Nate Cleme", 500, 0.03, AccountType.STUDENT);
         BankAccount deptChair = new BankAccount("Bruce Porter", 247_498, 0.02);
 
         // Trump got $100,000 for winning the election
