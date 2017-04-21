@@ -9,14 +9,20 @@
 public class Bank
 {
     public static void main(String[] args) {
-        BankAccount newThing = new BankAccount();
-        
-        
+        //BankAccount newThing = new BankAccount();
+
+        double future = BankAccount.compoundInterest(5000, 0.05, 12, 10);
+        System.out.printf("Future value is: $%.2f\n", future);
+                
         BankAccount drumpf = new BankAccount("Drumpf", 10_000_000, 0.03, AccountType.EXECUTIVE);
         BankAccount nate_dogg = new BankAccount("Nathan Clement", 36.60, 0.01, AccountType.STUDENT);
         BankAccount nat_pro = new BankAccount("Nate Cleme", 500, 0.03, AccountType.STUDENT);
         BankAccount deptChair = new BankAccount("Bruce Porter", 247_498, 0.02);
 
+        drumpf.printId();
+        nate_dogg.printId();
+        nat_pro.printId();
+        
         // Trump got $100,000 for winning the election
         drumpf.deposit(100_000);
         // I got a $50 raise (per semester) for teaching this class
