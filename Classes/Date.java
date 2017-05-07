@@ -31,10 +31,25 @@ public class Date
 
         if (month == Month.JAV) {
             strDate += "Jav";
+            month = Month.FEB;
         } else if (month == Month.FEB) {
             strDate += "Feb";
         } else if (month == Month.MAR) {
             strDate += "Mar";        
+        }
+        
+        switch (month) {
+            case JAV:
+                strDate += "Jav";
+            case FEB:
+                strDate += "Feb";
+                break;
+            case MAR:
+                strDate += "Mar";
+                break;
+            default:
+                strDate += "This thing is not known";
+                break;
         }
         
         // Add a comma and the year
